@@ -4,7 +4,7 @@
 
 > Todas features compostas por classes em Bootstrap
 
-> ultilizada media query das classe Bootstrap e do CSS
+> Ultilizada @MediaQuery das classes Bootstrap e do CSS
 
 #
 
@@ -17,20 +17,16 @@
 
 #
 
-<div style="text-align: center">
+<h3 align="center">Page</h3>
 
-<h3>Page</h3>
-
+<div align="center" >
 <img src="./assets/images/pageloginbootstrap.gif" />
-
 </div>
 
-<hr>
+#
 
-<div style="text-align: center">
+<h3 align="center">Page Responsive Mobile</h3>
 
-<h3>Page Responsive Mobile<h3>
-
-<img src="assets/images/responsivepageloginbootstrap.gif" height="800">
-
+<div align="center" >
+<img src="assets/images/responsivepageloginbootstrap.gif" height="700" />
 </div>
