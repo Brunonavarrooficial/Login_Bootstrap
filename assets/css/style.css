@@ -47,6 +47,7 @@ body {
 #form-container .form-floating label {
     color: #ccc;
 
+
 }
 
 #form-container .form-floating>.form-control:focus~label {
