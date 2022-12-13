@@ -12,21 +12,21 @@
 
 <div style="align-items: center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width=50/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width=50/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=60/>
+<img style="margin: 0px 0px -5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" width=60/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width=60/>
 </div>
 
 #
 
 <div style="text-align: center">
 
-### Page:
+<h3>Page</h3>
 
-![page](assets/images/pageloginbootstrap.gif)
+<img src="./assets/images/pageloginbootstrap.gif" />
 
-#
+<hr>
 
-### Page Responsive Mobile:
+<h3>Page Responsive Mobile<h3>
 
-![page-responsive](assets/images/responsivepageloginbootstrap.gif)
+<img src="assets/images/responsivepageloginbootstrap.gif" height="800">
 
 </div>
